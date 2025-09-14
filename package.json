@@ -1,0 +1,22 @@
+{
+  "name": "shivanshu_npm_resume",
+  "version": "1.0.1",
+  "description": "Display Shivanshu Kashyap's resume in terminal",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "shivak27": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shivanshu Kashyap",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.6.2",
+    "cli-table3": "^0.6.5",
+    "figlet": "^1.9.1"
+  }
+}

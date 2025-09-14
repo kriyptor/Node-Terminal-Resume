@@ -1,0 +1,104 @@
+===========================================================================================
+Email: kashyapshivanshu27@gmail.com
+LinkedIn: https://www.linkedin.com/in/shivanshu-kashyap-258431192/
+GitHub: https://github.com/kriyptor
+LeetCode: https://leetcode.com/u/imshivaK/
+Location: India
+==================================== EXPERIENCE ===========================================
+
+Indus Towers
+Gurugram, India
+Telecom Operations Center Engineer
+Jan 2023 -- Dec 2023
+
+Ensured optimal performance and availability (98% uptime) of 2,000+ telecom
+towers by monitoring, resolving, and communicating technical issues with field
+and management teams.
+Developed VBA-driven Excel macros to automate dashboard creation, reducing
+manual efforts by 75% and eliminating errors in real-time data from the field.
+Designed and maintained interactive Excel dashboards to track key performance
+indicators (KPIs) such as signal strength, power failure, temperature, and
+fire/smoke status, resulting in 80% reduction in root cause analysis time for
+field teams.
+
+------------------------------------------------------------------------------------------
+
+KareerBanana
+Remote
+Frontend Developer Intern
+Jun 2021 -- Aug 2021
+
+Leveraged Wix platform for front-end development, coupled with proficiency in
+UI/UX and mock-up design using Figma.
+Spearheaded the conception and execution of a "Schedule-a-Call" page,
+specifically designed to address diverse inquiries from new clients, resulting
+in a 20% increase in scheduled calls.
+Designed high-impact landing pages for multiple services, contributing to a 30%
+surge in new user traffic and heightened engagement.
+
+====================================== PROJECTS ==============================================
+
+1> BookNook
+  Live: https://booknook-client.netlify.app/
+  GitHub: https://github.com/kriyptor/bookNook
+  Tech: React.js, Node.js, MongoDB, Mongoose, Google Books API
+
+  A comprehensive book management platform enabling users to create reading lists,
+  track reading progress through a dedicated dashboard, and maintain structured
+  learning notes from each book, with integrated Google Books API for enhanced
+  book details and metadata.
+
+------------------------------------------------------------------------------------------
+
+2> AppointWell
+  Live: https://appoint-well-client.netlify.app/
+  GitHub: https://github.com/kriyptor/Appoint_Well
+  Tech: React.js, Node.js, MySQL, Sequelize, Cashfree Payment-gateway
+
+  Complete salon management platform: Full-stack web application enabling online
+  appointment booking, payment processing, automated reminders, and comprehensive
+  admin dashboard for staff and booking management.
+
+------------------------------------------------------------------------------------------
+
+3> Expense Manager
+  Live: https://expense-manager-2718.netlify.app/
+  GitHub: https://github.com/kriyptor/Expense_Manager_APP
+  Tech: React.js, Node.js, Mongoose, MongoDB, Nodemailer
+
+  A full-stack expense manager application that allows users to track expenses,
+  view reports, download CSVs, and unlock premium features like leaderboards.
+
+------------------------------------------------------------------------------------------
+
+4> Git-it
+  Live: https://kriyptor.github.io/git-it/
+  GitHub: https://github.com/kriyptor/git-it
+  Tech: HTML/CSS, Bootstrap & JavaScript
+
+  A static webpage designed to provide a visual and comprehensive understanding of
+  the Git version control system, explaining its core concepts and workflow.
+
+==================================== EDUCATION ==============================================
+
+B.Tech (Hons.) in Electronics and Communication
+Galgotias University, Greater Noida, India
+2018 -- 2022
+
+Senior Secondary (XII), Science and Mathematics
+Kendriya Vidyalaya B.H.U. Varanasi, India
+2017 -- 2018
+
+===================================== SKILLS =================================================
+
+Languages: JavaScript, TypeScript, C/C++, SQL
+Technologies: HTML/CSS, Node.js, React.js, MySQL, MongoDB, Firebase, Git/GitHub,
+AWS, Oracle Cloud Infrastructure, Visual Studio Code, Figma, Wix
+
+================================= CERTIFICATIONS ==============================================
+
+Oracle Cloud Infrastructure: Certified Foundations Associate
+https://drive.google.com/drive/folders/1fQ-fPzj75Lgr6l4gtoyGEzj2hypFLjae?usp=sharing
+
+JavaScript Algorithms & Data Structures: freeCodeCamp
+https://drive.google.com/file/d/1kVGhHqqNzAZfiqkDhO-ch29EBtnVUBwa/view?usp=sharing
