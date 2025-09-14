@@ -1,6 +1,6 @@
 {
   "name": "shivak27",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "description": "Display Shivanshu Kashyap's resume in the terminal",
   "type": "module",
   "main": "index.js",
@@ -14,13 +14,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["resume", "cli", "shivanshu", "terminal"],
+  "keywords": [
+    "resume",
+    "cli",
+    "shivanshu",
+    "terminal"
+  ],
   "author": "Shivanshu Kashyap",
   "license": "ISC",
   "dependencies": {
     "boxen": "^8.0.1",
     "chalk": "^5.6.2",
     "cli-table3": "^0.6.5",
-    "figlet": "^1.9.1"
+    "figlet": "^1.9.1",
+    "wrap-ansi": "^9.0.2"
   }
 }
