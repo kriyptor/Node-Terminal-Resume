@@ -2,9 +2,17 @@
 
 Display [Shivanshu Kashyap](https://www.linkedin.com/in/shivanshu-kashyap-258431192/)'s resume directly in your terminal!
 
+## Quick Usage
+
+You can view the resume instantly without installing anything by running:
+
+```sh
+npx shivak27
+```
+
 ## Installation
 
-You can install this package globally using npm:
+To install globally using npm:
 
 ```sh
 npm install -g shivanshu_npm_resume
@@ -31,7 +39,6 @@ This will display the resume in your terminal with styled formatting.
 - [chalk](https://www.npmjs.com/package/chalk) - Terminal string styling
 - [boxen](https://www.npmjs.com/package/boxen) - Boxed terminal output
 - [figlet](https://www.npmjs.com/package/figlet) - ASCII art text
-- [cli-table3](https://www.npmjs.com/package/cli-table3) - Table formatting (not currently used)
 
 ## Author
 
@@ -42,4 +49,4 @@ Shivanshu Kashyap
 
 ---
 
-> Inspired by the idea of sharing resumes in a fun and interactive way via the terminal!
+> Inspired by the idea of sharing resumes in a fun and interactive way
